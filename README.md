@@ -24,9 +24,17 @@ Objectif:
 capture the photo ; send it to the user ; give them the choice to unlock or lock the door
 
 List of devices:
+
+
 esp32-cam/
+
+
 Electronic Lock/
+
+
 Push Switch/
+
+
 battery/
 
 
@@ -41,5 +49,7 @@ a) Create a New BOT in Telegram App
                6) copy the token 
                
 ![photo1671976575 (1)](https://user-images.githubusercontent.com/121382849/209470961-6ea8ade4-8d10-4c49-8564-b96370aac199.jpeg)
+
+
 ![photo1671976575](https://user-images.githubusercontent.com/121382849/209470964-975fc083-89fb-4864-a239-e86a7ed01a81.jpeg)
 
