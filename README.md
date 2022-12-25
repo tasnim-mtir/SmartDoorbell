@@ -95,15 +95,15 @@ b)Get the User Id in Telegram App
 2)Program ESP32-CAM with Arduino IDE
 
 
-I have uploaded the code to ESP32-CAMM using the ESP32-CAM-MB USB (you can also use the FTDI232  or Arduino UNO to program ESP32CAM)
+I have uploaded the code to ESP32-CAM using the ESP32-CAM-MB USB (you can also use the FTDI232  or Arduino UNO )
 
 
-For this ESP32-CAM project, I have used the UniversalTelegramBot library (  you have to download and install it )
+For this project, I have used the UniversalTelegramBot library ( you have to download and install it )
 
-after uploading the code on the ESP32 it must be connected with the circuit and then tap on start on the bot i have created .
+after uploading the code on the ESP32 it must be connected with the circuit , then tap on start on the bot i have created .
 
 
-If the BOT is connected with ESP32CAM, you will get following message:
+If the BOT is connected with ESP32CAM, you will get the following message:
 
 
 
