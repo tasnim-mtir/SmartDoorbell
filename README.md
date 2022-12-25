@@ -26,30 +26,49 @@ capture the photo ; send it to the user ; give them the choice to unlock or lock
 List of devices:
 
 
-esp32-cam/
+esp32-cam
 
 
-Electronic Lock/
+Electronic Lock
 
 
-Push Switch/
+Push Switch
 
 
-battery/
+battery
 
 
 Installation and prepartion instrcutions: 
+
+
 1)Configure the Telegram App :
+
+
 a) Create a New BOT in Telegram App 
-               1) Search for BotFather in Telegram
-               2) Tap on START.
-               3) Type /newbot
-               4) name the BOT(should be unique)
-               5) enter a username
-               6) copy the token 
+              
+              
+              i) Search for BotFather in Telegram
+              
+              
+             ii) Tap on START.
+               
+               
+            iii) Type /newbot
+               
+               
+             iv) name the BOT(should be unique)
+              
+              
+              v) enter a username
+              
+              
+             vi) copy the token 
                
 ![photo1671976575 (1)](https://user-images.githubusercontent.com/121382849/209470961-6ea8ade4-8d10-4c49-8564-b96370aac199.jpeg)
 
 
 ![photo1671976575](https://user-images.githubusercontent.com/121382849/209470964-975fc083-89fb-4864-a239-e86a7ed01a81.jpeg)
+
+
+
 
