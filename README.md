@@ -24,15 +24,15 @@ Objectif:
 capture the photo ; send it to the user ; give them the choice to unlock or lock the door
 
 List of devices:
-esp32-cam
-Electronic Lock
-Push Switch
-battery
+esp32-cam/
+Electronic Lock/
+Push Switch/
+battery/
 
 
 Installation and prepartion instrcutions: 
 1)Configure the Telegram App :
-a) Create a New BOT in Telegram App
+a) Create a New BOT in Telegram App 
                1) Search for BotFather in Telegram
                2) Tap on START.
                3) Type /newbot
