@@ -31,8 +31,8 @@ battery
 
 
 Installation and prepartion instrcutions: 
-------1)Configure the Telegram App :
----------a) Create a New BOT in Telegram App
+1)Configure the Telegram App :
+a) Create a New BOT in Telegram App
                1) Search for BotFather in Telegram
                2) Tap on START.
                3) Type /newbot
@@ -40,6 +40,6 @@ Installation and prepartion instrcutions:
                5) enter a username
                6) copy the token 
                
-![photo1671976575](https://user-images.githubusercontent.com/121382849/209470912-9ba71e6e-acbb-4ba9-9d69-281e7781a569.jpeg)
-![photo1671976575 (1)](https://user-images.githubusercontent.com/121382849/209470918-96cb3c1d-6a52-4ec1-bace-5e815802995b.jpeg)
+![photo1671976575 (1)](https://user-images.githubusercontent.com/121382849/209470961-6ea8ade4-8d10-4c49-8564-b96370aac199.jpeg)
+![photo1671976575](https://user-images.githubusercontent.com/121382849/209470964-975fc083-89fb-4864-a239-e86a7ed01a81.jpeg)
 
